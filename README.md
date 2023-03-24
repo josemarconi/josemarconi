@@ -1,7 +1,11 @@
 ## Seja bem-vindo! Meu nome é José Marconi! 
 
 #🎓 Cursando o 3º Período de Engenharia de Computação no CEFET-MG, Campus V.
+<p> <p>
+  
 #🚀 Aprimorando os conhecimentos sobre C/C++, HTML, CSS e JavaScript.
+<p> <p>
+   
 #📖 Estudando Algoritimo e Estrutura de Dados.
 
 <div>
