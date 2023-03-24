@@ -14,9 +14,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemarconi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemarconi&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
   
-</div>
+  </div>
+  </div>
+  </div>
  
-<div align = "center"> 
+<div align = "left"> 
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40px" width="40px" src="imagens/c-.png"/> 
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
