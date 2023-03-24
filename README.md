@@ -10,6 +10,8 @@
 
 <div>
   
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  
 <a href="https://github.com/josemarconi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemarconi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemarconi&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
