@@ -27,7 +27,7 @@
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="imagens/octocat-1679678866355.png"/>
+  <img align="right" height="150" style="border-radius:150px;" src="imagens/octocat-1679678866355.png"/>
 </a>
 </div>
 
