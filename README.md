@@ -1,6 +1,6 @@
 ## Seja bem-vindo! Meu nome é José Marconi!
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 150px></picture>
 
 #🎓 Cursando o 3º Período de Engenharia de Computação no CEFET-MG, Campus V.
 <p> <p>
