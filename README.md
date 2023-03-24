@@ -1,4 +1,6 @@
-## Seja bem-vindo! Meu nome é José Marconi! <img align="left" height="150" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/downsign-qr-code-brick-game-art-puzzle-gif-13617041"/>
+## Seja bem-vindo! Meu nome é José Marconi!
+
+<picture> <img align="left" height="150" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/downsign-qr-code-brick-game-art-puzzle-gif-13617041"/><picture>
 
 #🎓 Cursando o 3º Período de Engenharia de Computação no CEFET-MG, Campus V.
 <p> <p>
