@@ -15,12 +15,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemarconi&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
   
 </div>
-  
-<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="40px" width="40px" src="imagens/c-.png"/> 
-<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="40px" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ 
+<div align = "center"> 
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="40px" width="40px" src="imagens/c-.png"/> 
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40px" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
+</a>
+</div>
 
   
 ![Snake animation](https://github.com/josemarconi/josemarconi/blob/output/github-contribution-grid-snake.svg)
