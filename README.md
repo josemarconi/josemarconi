@@ -4,6 +4,11 @@
 #🚀 Aprimorando os conhecimentos sobre C/C++, HTML, CSS e JavaScript.
 #📖 Estudando Algoritimo e Estrutura de Dados.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemarconi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemarconi&langs_count=3)](https://github.com/josemarconi/github-readme-stats)
+<div>
+  
+<a href="https://github.com/josemarconi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemarconi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemarconi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
 
