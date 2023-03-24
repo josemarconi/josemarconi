@@ -1,6 +1,6 @@
 ## Seja bem-vindo! Meu nome é José Marconi!
 
-<div class="tenor-gif-embed" data-postid="13617041" data-share-method="host" data-aspect-ratio="0.996753" data-width="30%"><a href="https://tenor.com/view/downsign-qr-code-brick-game-art-puzzle-gif-13617041">Downsign Qr Code GIF</a>from <a href="https://tenor.com/search/downsign-gifs">Downsign GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 #🎓 Cursando o 3º Período de Engenharia de Computação no CEFET-MG, Campus V.
 <p> <p>
