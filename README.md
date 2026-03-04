@@ -1,6 +1,6 @@
 ## Seja bem-vindo! Meu nome é José Marconi!
 
-#🎓 Cursando o 7º Período de Engenharia de Computação no CEFET-MG, Campus V.
+#🎓 Cursando o 9º Período de Engenharia de Computação no CEFET-MG, Campus V.
 <p> <p>
   
 #🚀 Aprimorando os conhecimentos sobre C/C++, HTML, CSS e JavaScript.
